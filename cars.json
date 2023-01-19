@@ -1,0 +1,202 @@
+[
+  {
+    "Id": 1,
+    "Name": "Mercedes-Benz E-Class  350 CDI BE G-tronic (231 к.с.)",
+    "Price": "13 500 $",
+    "UAH_Price": "545 265 UAH",
+    "Car_Mileage": "210 тис. км",
+    "Fuel": "Дизель, 3 л.",
+    "Location": "Київ",
+    "Akp": "Автомат"
+  },
+  {
+    "Id": 2,
+    "Name": "Mercedes-Benz E-Class  280 CDI AT (190 к.с.)",
+    "Price": "8 900 $",
+    "UAH_Price": "359 560 UAH",
+    "Car_Mileage": "254 тис. км",
+    "Fuel": "Дизель, 3 л.",
+    "Location": "Київ",
+    "Akp": "Автомат"
+  },
+  {
+    "Id": 3,
+    "Name": "Mercedes-Benz E-Class",
+    "Price": "13 900 $",
+    "UAH_Price": "562 672 UAH",
+    "Car_Mileage": "199 тис. км",
+    "Fuel": "Бензин, 3.5 л.",
+    "Location": "Київ",
+    "Akp": "Автомат"
+  },
+  {
+    "Id": 4,
+    "Name": "Mercedes-Benz E-Class",
+    "Price": "11 500 $",
+    "UAH_Price": "464 600 UAH",
+    "Car_Mileage": "283 тис. км",
+    "Fuel": "Дизель, 3 л.",
+    "Location": "Бердичів",
+    "Akp": "Автомат"
+  },
+  {
+    "Id": 5,
+    "Name": "Mercedes-Benz E-Class  420 CDI AT (314 к.с.)",
+    "Price": "7 800 $",
+    "UAH_Price": "315 744 UAH",
+    "Car_Mileage": "280 тис. км",
+    "Fuel": "Дизель, 4 л.",
+    "Location": "Київ",
+    "Akp": "Автомат"
+  },
+  {
+    "Id": 6,
+    "Name": "Mercedes-Benz E-Class",
+    "Price": "5 181 $",
+    "UAH_Price": "210 000 UAH",
+    "Car_Mileage": "370 тис. км",
+    "Fuel": "Дизель, 2.2 л.",
+    "Location": "Дніпро (Дніпропетровськ)",
+    "Akp": "Автомат"
+  },
+  {
+    "Id": 7,
+    "Name": "Mercedes-Benz E-Class  270 CDI AT (177 к.с.)",
+    "Price": "6 500 $",
+    "UAH_Price": "263 120 UAH",
+    "Car_Mileage": "300 тис. км",
+    "Fuel": "Дизель, 2.7 л.",
+    "Location": "Чернівці",
+    "Akp": "Автомат"
+  },
+  {
+    "Id": 8,
+    "Name": "Mercedes-Benz E-Class  280 CDI AT (177 к.с.)",
+    "Price": "7 000 $",
+    "UAH_Price": "282 940 UAH",
+    "Car_Mileage": "303 тис. км",
+    "Fuel": "Дизель, 3.2 л.",
+    "Location": "Рівне",
+    "Akp": "Автомат"
+  },
+  {
+    "Id": 9,
+    "Name": "Mercedes-Benz E-Class",
+    "Price": "15 999 $",
+    "UAH_Price": "646 359 UAH",
+    "Car_Mileage": "229 тис. км",
+    "Fuel": "Дизель, 3 л.",
+    "Location": "Луцьк",
+    "Akp": "Автомат"
+  },
+  {
+    "Id": 10,
+    "Name": "Mercedes-Benz E-Class",
+    "Price": "8 450 $",
+    "UAH_Price": "341 549 UAH",
+    "Car_Mileage": "308 тис. км",
+    "Fuel": "Дизель, 2.2 л.",
+    "Location": "Коломия",
+    "Akp": "Автомат"
+  },
+  {
+    "Id": 11,
+    "Name": "Mercedes-Benz E-Class  200 Kompressor AT (192 к.с.)",
+    "Price": "6 000 $",
+    "UAH_Price": "242 459 UAH",
+    "Car_Mileage": "430 тис. км",
+    "Fuel": "Газ / Бензин, 2 л.",
+    "Location": "Кам'янське (Дніпродзержинськ)",
+    "Akp": "Ручна / Механіка"
+  },
+  {
+    "Id": 12,
+    "Name": "Mercedes-Benz E-Class",
+    "Price": "9 999 $",
+    "UAH_Price": "404 159 UAH",
+    "Car_Mileage": "244 тис. км",
+    "Fuel": "Дизель, 3 л.",
+    "Location": "Київ",
+    "Akp": "Автомат"
+  },
+  {
+    "Id": 13,
+    "Name": "Mercedes-Benz E-Class  200 Kompressor MT (192 к.с.)",
+    "Price": "3 650 $",
+    "UAH_Price": "147 861 UAH",
+    "Car_Mileage": "309 тис. км",
+    "Fuel": "Бензин, 2 л.",
+    "Location": "Коломия",
+    "Akp": "Автомат"
+  },
+  {
+    "Id": 14,
+    "Name": "Mercedes-Benz E-Class  200 Kompressor AT (163 к.с.)",
+    "Price": "7 700 $",
+    "UAH_Price": "311 080 UAH",
+    "Car_Mileage": "265 тис. км",
+    "Fuel": "Бензин, 1.8 л.",
+    "Location": "Вінниця",
+    "Akp": "Автомат"
+  },
+  {
+    "Id": 15,
+    "Name": "Mercedes-Benz E-Class",
+    "Price": "4 000 $",
+    "UAH_Price": "161 640 UAH",
+    "Car_Mileage": "465 тис. км",
+    "Fuel": "Газ / Бензин, 4.3 л.",
+    "Location": "Первомайськ",
+    "Akp": "Типтронік"
+  },
+  {
+    "Id": 16,
+    "Name": "Mercedes-Benz E-Class",
+    "Price": "5 699 $",
+    "UAH_Price": "230 239 UAH",
+    "Car_Mileage": "280 тис. км",
+    "Fuel": "Бензин, 2.4 л.",
+    "Location": "Рівне",
+    "Akp": "Автомат"
+  },
+  {
+    "Id": 17,
+    "Name": "Mercedes-Benz E-Class  220 CDI AT (150 к.с.)",
+    "Price": "8 600 $",
+    "UAH_Price": "347 525 UAH",
+    "Car_Mileage": "317 тис. км",
+    "Fuel": "Дизель, 2.2 л.",
+    "Location": "Київ",
+    "Akp": "Типтронік"
+  },
+  {
+    "Id": 18,
+    "Name": "Mercedes-Benz E-Class  280 AT (231 к.с.)",
+    "Price": "9 499 $",
+    "UAH_Price": "383 854 UAH",
+    "Car_Mileage": "293 тис. км",
+    "Fuel": "Дизель, 3 л.",
+    "Location": "Хмельницький",
+    "Akp": "Автомат"
+  },
+  {
+    "Id": 19,
+    "Name": "Mercedes-Benz E-Class",
+    "Price": "6 999 $",
+    "UAH_Price": "282 829 UAH",
+    "Car_Mileage": "318 тис. км",
+    "Fuel": "Бензин, 5 л.",
+    "Location": "Хмельницький",
+    "Akp": "Автомат"
+  },
+  {
+    "Id": 20,
+    "Name": "Mercedes-Benz E-Class",
+    "Price": "8 750 $",
+    "UAH_Price": "353 500 UAH",
+    "Car_Mileage": "221 тис. км",
+    "Fuel": "Газ / Бензин, 3 л.",
+    "Location": "Олевськ",
+    "Akp": "Автомат"
+  }
+]
